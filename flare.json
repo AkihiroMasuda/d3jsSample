@@ -1,0 +1,30 @@
+
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "NHK",
+            "children": [
+                {"name": "tweet001","size": 1000},
+                {"name": "tweet002","size": 100},
+                {"name": "tweet003","size": 100},
+                {"name": "tweet004","size": 100},
+                {"name": "tweet005","size": 100}
+            ]
+        },
+        {
+            "name": "ETV",
+            "children": [
+                {"name": "tweet101","size": 100},
+                {"name": "tweet102","size": 100}
+            ]
+        },
+        {
+            "name": "日本テレビ",
+            "children": [
+                {"name": "tweet201","size": 100},
+                {"name": "tweet202","size": 100}
+            ]
+        }
+    ]
+}
